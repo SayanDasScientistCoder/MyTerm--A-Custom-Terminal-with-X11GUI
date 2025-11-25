@@ -1,7 +1,5 @@
 # **MyTerm \- Custom Terminal with X11GUI**
 
-**README**
-
 ## **Prerequisites**
 
 ### **System Requirements**
