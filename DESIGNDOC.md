@@ -1,9 +1,5 @@
 # **MyTerm \- Custom Terminal with X11GUI**
 
-**Design Document**
-
-## **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
-
 ## **1\. Graphical User Interface with X11**
 
 ### **Implementation Technique**
